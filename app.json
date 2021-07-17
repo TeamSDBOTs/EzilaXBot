@@ -37,16 +37,16 @@
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "Damantha_Jasinghe"
+         "value": "Darkridersslk"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
+         "value": "1548967589"
       },
 "GRAND_IMG": {
-         "description": "Telegraph files only:-@TheTelegraphUpBot. Image shows when hit /start",
-         "value": "https://telegra.ph/file/066343aa558e9348abadb.jpg"    
+         "description": "Telegraph files only:-@SDTelegraphbot. Image shows when hit /start",
+         "value": "https://telegra.ph/file/b500e6b17813772db2d6a.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -80,12 +80,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
+         "value": "1548967589"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
+         "value": "1548967589"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -105,7 +105,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
+         "value": "1548967589"
       }
    },
    "keywords": [
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/066343aa558e9348abadb.jpg",
-   "name": "Hector bot",
-   "repository": "https://github.com/slbotofficial11/Hector"
+   "logo": "https://telegra.ph/file/b500e6b17813772db2d6a.jpg",
+   "name": "EzilaXbot",
+   "repository": "https://github.com/sadew451/EzilaXBot"
 }
