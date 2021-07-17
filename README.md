@@ -32,9 +32,10 @@ Should any be missing kindly let us know at [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](h
 ## EzilaXbot the telegram Bot Project
 The Advanced Branch (For PRO's)
 
-SL Bots(advvanced)
+## SDBots(advvanced)
 
 ## Special Credits
 - [sadew](https://github.com/sadew451) - A Co-Developer of Project ❤️
 - [Damantha](https://github.com/Damantha126) - A Co-Developer of Project ❤️
 - [SDBOTs In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/Ezila_Updates) - Main Updates Channel ⭐️
+- [TeamSDBOTs](https://github.com/TeamSDBOTs) - Our Team 🌟
